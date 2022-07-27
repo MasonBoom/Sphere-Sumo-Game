@@ -12,7 +12,7 @@ This project was built with:
 
 Here is a screenshot of the game being played:
 
-!(image)[]
+![image](https://github.com/MasonBoom/Sphere-Sumo-Game/blob/7100d4590af05b5b5bf8bc235789853f8e2a0166/Sphere%20Sumo%20-%20Unity%20Play%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%207_27_2022%204_26_15%20AM.png)
 
 NOTE: the github repository only includes the scripts for the game, the game is playable at the site below
 
